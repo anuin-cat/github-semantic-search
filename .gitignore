@@ -1,3 +1,18 @@
+# local
+data/
+data_all/
+data_simple/
+.gradio/
+database/
+
+
+compose.ipynb
+deal_data_org.py
+search.ipynb
+
+.env.local
+.env
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
